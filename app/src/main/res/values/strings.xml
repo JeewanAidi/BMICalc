@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMICalc</string>
+    <string name="weight">Enter your weight</string>
+    <string name="height">Enter your height(in cm)</string>
+    <string name="button">Calculate</string>
+    <string name="textV">Result</string>
+</resources>
